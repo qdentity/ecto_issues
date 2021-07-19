@@ -1,0 +1,2 @@
+defmodule EctoIssues do
+end
